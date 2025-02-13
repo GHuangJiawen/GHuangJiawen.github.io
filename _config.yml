@@ -6,7 +6,7 @@ author:
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  Write an awesome description for your new site here...
+  I don't know what to write, let me just talking nothing
 url: "https://GHuangJiawen.github.io" #Your Github username
 baseurl: "" # Remove the baseurl content since this will be your main site
 
@@ -72,7 +72,7 @@ minima:
   social_links:
     - title: Github
       icon: github
-      url: "https://github.com/your-github-username/"
+      url: "https://github.com/GHuangJiawen/"
     - title: Linkedin
       icon: linkedin
       url: "https://www.linkedin.com/in/your-linkedin-username/"
