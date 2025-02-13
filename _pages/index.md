@@ -5,4 +5,4 @@ permalink: /
 profile_image: /assets/img/profile.jpg # Add your image path here
 ---
 
-This is the landing page for my site. Here's a quick introduction to me!
+I'm Jiawen Huang, a student at CU Denver, studying Communication. This portfolio showcases my work in HIST 4261/5261: Working With Data.
