@@ -1,5 +1,5 @@
 ---
-title: "Project Review"
+title: "HaHa"
 layout: page
 category: "Essay"
 date: 2025-02-23
@@ -8,5 +8,5 @@ showcase: false # Set to false to hide from portfolio page
 description: >
   Project review for HIST 4261/5261: Working With Data
 ---
-
+**{{title}}**
 This is my project review. It was written on {{ page.date }} and falls under the category of: {{ page.category }}.
