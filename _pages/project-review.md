@@ -11,8 +11,9 @@ description: >
 **{{title}}**
 This is my project review. It was written on {{ page.date }} and falls under the category of: {{ page.category }}.
 
-I was visiting a website when I came across a data set and visualization on COVID-19 vaccination, and I thought it was an interesting thing and wanted to analyze it.
-Url：[PROJECT REVIEW IDEA](https://www.reuters.com/world-coronavirus-tracker-and-maps/graphics/world-coronavirus-tracker-and-maps/vaccination-rollout-and-access/?utm_source=puntofisso&utm_medium=email)
+I was browsing the website and came across a data set and visualization on the number of COVID-19 vaccine infections and deaths, and I thought it was an interesting thing to analyze.
+
+**Url**：[PROJECT REVIEW IDEA](https://www.reuters.com/world-coronavirus-tracker-and-maps/)
 
 <div align="center">
   <p><img src="/assets/img/example-screenshot.png" style="width: 80%;" /></p>
