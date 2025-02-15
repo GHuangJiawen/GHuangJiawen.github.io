@@ -13,3 +13,7 @@ This is my project review. It was written on {{ page.date }} and falls under the
 
 I was visiting a website when I came across a data set and visualization on COVID-19 vaccination, and I thought it was an interesting thing and wanted to analyze it.
 Url：[PROJECT REVIEW IDEA](https://www.reuters.com/world-coronavirus-tracker-and-maps/graphics/world-coronavirus-tracker-and-maps/vaccination-rollout-and-access/?utm_source=puntofisso&utm_medium=email)
+
+<div align="center">
+  <p><img src="/assets/img/example-screenshot.png" style="width: 80%;" /></p>
+</div>
