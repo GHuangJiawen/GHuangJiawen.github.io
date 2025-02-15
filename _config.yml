@@ -35,9 +35,9 @@ navigation:
     - title: "About Me"
       url: "/"
     - title: "Portfolio"
-      url: "/portfolio/"
-    - title: "Another Website"
-      url: "https://cblevins.github.io/sp25-data/"
+      url: "https://GHuangJiawen.github.io/portfolio/"
+    - title: "Project-review"
+      url: "https://ghuangjiawen.github.io/project-review/"
 
 include: ["_pages"]
 permalink: /:title/
