@@ -29,6 +29,7 @@ description: >
   A deeper problem is whether organizations are providing real data, which is a question of data transparency: The chart below shows the number of infections and deaths since the outbreak began in China:
 
 > This inference is not only based on personal subjective feelings; government agencies that mask data have also experienced loopholes. After the real data was released, it was urgently deleted. (details visible at [here](https://cn.nytimes.com/china/20230720/china-covid-data-toll/), This report is already from 2023, but you can think of previous data that was masked in the same way).
+
   The data organization and presentation of this project is very simple and clear. Each chart has a clear mark to tell the reader what it is. Also, the chart itself is not complicated, basically consisting of some bar charts or line charts.
 
    In addition, the dataset itself also has a separate page for each country, which can be reached directly by clicking under the main page. This simple index function greatly improves the readability of the data, so that readers can find the data they need to know more quickly. 
