@@ -20,7 +20,7 @@ description: >
   The project provides people with real-time epidemic data and enhances their understanding of epidemic trends through visualization.
   
 <p align="center">
-    <img src="./images/china-covid-data.png" alt="p-2.png" width="60%" height="auto">
+    <img src="../assets/img/p-2.png" alt="p-2.png" width="60%" height="auto">
 </p>
 <p align="center"><em>An interactive world map, one of the data visualizations in this dataset</em></p>
 
