@@ -11,8 +11,9 @@ description: >
   The COVID-19 Global tracker is a data-driven project developed by Reuters to provide real-time data tracking of the coronavirus outbreak around the world. The project uses visual maps, trend graphs and interactive data analysis tools to show countries' confirmed COVID-19 cases, deaths, vaccination progress, and government response policies such as lockdowns, school closures, and border controls from **December '19 to July' 22**.
   
 <p align="center">
-      <img src="./images/china-covid-data.png" alt="p-1.png" width="60%" height="auto">
-  </p> 
+    <img src="../assets/img/" alt="p-1.png" width="60%" height="auto">
+</p>
+
   
 > It is worth mentioning that it was a time-sensitive dataset at the time, but now it has automatically become a project with history.
 
