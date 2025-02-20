@@ -74,8 +74,8 @@ description: >
 
 <table>
   <tr>
-    <td align="center"><img src="../assets/img/p-8.png" alt="p-8.png" width="80%"></td>
-    <td align="center"><img src="../assets/img/p-9.png" alt="p-9.png" width="70%"></td>
+    <td align="center"><img src="../assets/img/p-8.png" alt="p-8.png" width="100%"></td>
+    <td align="center"><img src="../assets/img/p-9.png" alt="p-9.png" width="80%"></td>
   </tr>
 </table>
 
