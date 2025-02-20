@@ -40,6 +40,11 @@ description: >
 
 &nbsp;&nbsp;&nbsp;&nbsp; The data itself is also obtained and verified from a variety of sources: government speeches, press releases and even official Twitter posts, and presented in a visual graph that allows readers to filter through different countries or time periods to see the trend of the epidemic. Compared with traditional statistical data reporting, this visualization method is more intuitive and easier for readers to compare and analyze, which means that the data is used well.
 
+<p align="center">
+    <img src="../assets/img/p-3.png" alt="p-3.png" width="60%" height="auto">
+</p>
+<p align="center"><em>Vaccination data graph</em></p>
+
  &nbsp;&nbsp;&nbsp;&nbsp; However, just like the description in the project web page, the data set itself has a great accuracy problem, which has nothing to do with the project, but mainly lies in the data source. For example, in the statistical process of countries, due to the different statistical standards and detection capabilities of countries, countries with high detection rates have more possible cases and deaths, while countries with low detection rates have fewer.
   
 &nbsp;&nbsp;&nbsp;&nbsp;  A deeper problem is whether organizations are providing real data, which is a question of data transparency: The chart below shows the number of infections and deaths since the outbreak began in China:
