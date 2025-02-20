@@ -71,13 +71,12 @@ description: >
 &nbsp;&nbsp;&nbsp;&nbsp;   However, due to the huge size of this dataset, the background provided by it is obviously insufficient. Data on different countries, different policies, number of infections, number of deaths, vaccination progress, etc. are stacked together, and the average reader may be confused by the dataset and not properly understand the role of the data set itself. Although the filtering and visualization functions have done a good job, it is difficult for the average reader to make much sense of the data set without more explanation and context.
    
 &nbsp;&nbsp;&nbsp;&nbsp;   Like the previous analysis, the dataset did what it was supposed to do: count the various data during the outbreak and visualize it for people to see and analyze. However, for overly large data, this dataset is not able to better analyze it (it can do better), for professional people, the data of this dataset is detailed and the chart is highly interactive, which can provide good support for their research or analysis of the epidemic. But for average readers, they may be more inclined to draw conclusions directly, and such content is difficult to find in this data set. So when the dataset was given to different audiences, the effect of the information conveyed may vary greatly, if further reading guide can be provided, this gap may be shortened.
-
-<table>
-  <tr>
-    <td align="center"><img src="../assets/img/p-8.png" alt="p-8.png" width="100%"></td>
-    <td align="center"><img src="../assets/img/p-9.png" alt="p-9.png" width="80%"></td>
-  </tr>
-</table>
-
-<p align="center"><em>Highly interactive charts that make it easy to understand infection data over time</em></p>
+<p align="center">
+    <img src="../assets/img/p-8.png" alt="p-8.png" width="60%" height="auto">
+</p>
+<p align="center"><em>Shows the number of infections on different continents</em></p>
+<p align="center">
+    <img src="../assets/img/p-9.png" alt="p-9.png" width="60%" height="auto">
+</p>
+<p align="center"><em>Shows the number of infections on different continents as a percentage of all infections</em></p>
 &nbsp;&nbsp;&nbsp;&nbsp;   **Overall, the project is a powerful epidemic data and visualization tool that meets the needs of the general public and is also more suitable for use by researchers and professionals.**
