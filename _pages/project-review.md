@@ -79,4 +79,5 @@ description: >
     <img src="../assets/img/p-9.png" alt="p-9.png" width="60%" height="auto">
 </p>
 <p align="center"><em>Shows the number of infections on different continents as a percentage of all infections</em></p>
+
 &nbsp;&nbsp;&nbsp;&nbsp;   **Overall, the project is a powerful epidemic data and visualization tool that meets the needs of the general public and is also more suitable for use by researchers and professionals.**
