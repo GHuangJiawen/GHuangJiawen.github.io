@@ -74,9 +74,10 @@ description: >
 
 <table>
   <tr>
-    <td><img src="../assets/img/p-8.png" alt="p-8.png" width="45%"></td>
-    <td><img src="../assets/img/p-9.png" alt="p-9.png" width="45%"></td>
+    <td align="center"><img src="../assets/img/p-8.png" alt="p-8.png" width="45%"></td>
+    <td align="center"><img src="../assets/img/p-9.png" alt="p-9.png" width="45%"></td>
   </tr>
 </table>
+
 <p align="center"><em>Highly interactive charts that make it easy to understand infection data over time</em></p>
 &nbsp;&nbsp;&nbsp;&nbsp;   **Overall, the project is a powerful epidemic data and visualization tool that meets the needs of the general public and is also more suitable for use by researchers and professionals.**
