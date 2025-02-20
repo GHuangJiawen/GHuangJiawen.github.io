@@ -18,15 +18,15 @@ description: >
   
   According to the introduction of the project itself, the data of the project mainly comes from:
   
--**WHO**
--**Johns Hopkins University**
--**Governments and public health agencies**
+- **WHO**
+- **Johns Hopkins University**
+- **Governments and public health agencies**
 
   Covering the global epidemic data, including:
   
--**Data on the number of confirmed cases and deaths (new and cumulative daily data)**
--**Vaccination progress (vaccination rates in different countries)**
--**Government policies (lockdowns, border controls, school closures, etc.)**
+- **Data on the number of confirmed cases and deaths (new and cumulative daily data)**
+- **Vaccination progress (vaccination rates in different countries)**
+- **Government policies (lockdowns, border controls, school closures, etc.)**
 
   The data itself is also obtained and verified from a variety of sources: government speeches, press releases and even official Twitter posts, and presented in a visual graph that allows readers to filter through different countries or time periods to see the trend of the epidemic. Compared with traditional statistical data reporting, this visualization method is more intuitive and easier for readers to compare and analyze, which means that the data is used well.
 
