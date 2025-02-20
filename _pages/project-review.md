@@ -28,7 +28,7 @@ description: >
 - **Vaccination progress (vaccination rates in different countries)**
 - **Government policies (lockdowns, border controls, school closures, etc.)**
 
-  The data itself is also obtained and verified from a variety of sources: government speeches, press releases and even official Twitter posts, and presented in a visual graph that allows readers to filter through different countries or time periods to see the trend of the epidemic. Compared with traditional statistical data reporting, this visualization method is more intuitive and easier for readers to compare and analyze, which means that the data is used well.
+The data itself is also obtained and verified from a variety of sources: government speeches, press releases and even official Twitter posts, and presented in a visual graph that allows readers to filter through different countries or time periods to see the trend of the epidemic. Compared with traditional statistical data reporting, this visualization method is more intuitive and easier for readers to compare and analyze, which means that the data is used well.
 
   However, just like the description in the project web page, the data set itself has a great accuracy problem, which has nothing to do with the project, but mainly lies in the data source. For example, in the statistical process of countries, due to the different statistical standards and detection capabilities of countries, countries with high detection rates have more possible cases and deaths, while countries with low detection rates have fewer.
   
