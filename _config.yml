@@ -36,8 +36,8 @@ navigation:
       url: "/"
     - title: "Portfolio"
       url: "https://GHuangJiawen.github.io/portfolio/"
-    - title: "Project-review"
-      url: "https://ghuangjiawen.github.io/project-review/"
+    - title: "Research Project"
+      url: "https://ghuangjiawen.github.io/research-project/"
 
 include: ["_pages"]
 permalink: /:title/
